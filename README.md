@@ -13,6 +13,7 @@ o Programming: Python, Java, C#, JavaScript, React
 o IDE: IntelliJ, NetBeans, PyCharm
 
 📄 CV
+
 o https://github.com/jedidiah-rav/CV/blob/main/Jedidiah-rav_CV.pdf
   
 📫 You can reach me via:
