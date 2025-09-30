@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello there, I'm Jedi 👋
 
-<!--
-**jedidiah-rav/jedidiah-rav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+o 🎓 Software/Frontend Student at Belgium Campus iTversity 
 
-Here are some ideas to get you started:
+o Love designing applications and websites 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+o Seeking internship opportunities in software development 
+
+🚀 Skills
+
+o Programming: Python, Java, C#, JavaScript, React
+
+o IDE: IntelliJ, NetBeans, PyCharm
+
+📄 CV
+o 
+  
+📫 You can reach me via:
+
+     📞084 028 1995
+     ✉️jedidiah.rav@gmail.com
+
+
