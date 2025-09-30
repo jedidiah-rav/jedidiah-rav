@@ -15,10 +15,5 @@ o IDE: IntelliJ, NetBeans, PyCharm
 📄 CV
 
 o https://github.com/jedidiah-rav/CV/blob/main/Jedidiah-rav_CV.pdf
-  
-📫 You can reach me via:
-
-     📞084 028 1995
-     ✉️jedidiah.rav@gmail.com
 
 
