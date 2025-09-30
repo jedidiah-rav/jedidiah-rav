@@ -12,4 +12,8 @@ o Programming: Python, Java, C#, JavaScript, React
 
 o IDE: IntelliJ, NetBeans, PyCharm
 
+You can reach me via:
+o 📞084 028 1995
+o ✉️jedidiah.rav@gmail.com
+
 
